@@ -5,7 +5,7 @@ target_lang_hy = 'hy'
 target_lang_en = 'en'
 
 # Set up your OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = 'Your Key API'
 
 # Define the prompt for text generation
 prompt = input("Please enter text -- > ")
